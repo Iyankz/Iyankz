@@ -35,13 +35,10 @@ Currently serving as **Operational Manager** for several ISPs and leading my own
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iyankz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyankz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iyankz&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=iyankz&theme=tokyonight" />
 </p>
-
 ---
 
 ### 📩 Get In Touch for Business Inquiries
