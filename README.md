@@ -35,11 +35,10 @@ Currently serving as **Operational Manager** for several ISPs and leading my own
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyankz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=iyankz&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iyankz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 ---
+
 
 ### 📩 Get In Touch for Business Inquiries
 If you need ISP consultancy, FTTH deployment, or server building, feel free to reach out:
