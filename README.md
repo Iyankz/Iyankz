@@ -30,7 +30,7 @@ As an entrepreneur and Operational Manager, I provide end-to-end solutions for I
 | Category | Certified Skills & Vendors |
 | :--- | :--- |
 | **Cybersecurity** | **Fortinet (NSE 1 & 2)**, **Certified Ethical Hacking (CEH)**, **PenTest**, **Information Security Awareness**. |
-| **Cloud & Virtualization** | **Alibaba Cloud** (DDoS Protection, Cloud Computing), **AWS** , **VMware**, **Cloud Security**. |
+| **Cloud & Virtualization** | **Alibaba Cloud (DDoS Protection, Cloud Computing)**, **AWS** , **VMware**, **Cloud Security**. |
 | **Networking** | **Cisco**, **MikroTik**, **IPv6 (HE)**, **EIGRP Expert**. |
 | **Sysadmin & Dev** | **Linux**, **GitHub**, **NAS Management**, **MongoDB**, **Python Networking**. |
 
