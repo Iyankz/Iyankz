@@ -45,10 +45,6 @@ As an entrepreneur and Operational Manager, I provide end-to-end solutions for I
 ### 📊 GitHub Activity
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iyankz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <br/>
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iyankz&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
