@@ -380,11 +380,7 @@ Professional web solutions for corporate branding and network management dashboa
 ### 🤖 AI-Powered Projects
 *Embracing AI - because those who don't will be left behind*
 
-<div align="center">
 
-[![botlinkmaster](https://github-readme-stats.vercel.app/api/pin/?username=iyankz&repo=botlinkmaster&theme=tokyonight)](https://github.com/iyankz/botlinkmaster)
-
-</div>
 
 | Project | Description | Tech |
 | :--- | :--- | :---: |
@@ -395,12 +391,6 @@ Professional web solutions for corporate branding and network management dashboa
 ### 🛠️ ISP & Network Tools
 *Tools I've built from real-world ISP experience*
 
-<div align="center">
-
-[![GenieACS](https://github-readme-stats.vercel.app/api/pin/?username=iyankz&repo=GenieACS&theme=tokyonight)](https://github.com/iyankz/GenieACS)
-[![RPZ-Kominfo](https://github-readme-stats.vercel.app/api/pin/?username=iyankz&repo=RPZ-Kominfo&theme=tokyonight)](https://github.com/iyankz/RPZ-Kominfo)
-
-</div>
 
 | Project | Description | Tech |
 | :--- | :--- | :---: |
@@ -414,12 +404,6 @@ Professional web solutions for corporate branding and network management dashboa
 ### 📊 Monitoring & Infrastructure
 *Enterprise monitoring solutions made easy*
 
-<div align="center">
-
-[![CheckMK](https://github-readme-stats.vercel.app/api/pin/?username=iyankz&repo=CheckMK&theme=tokyonight)](https://github.com/iyankz/CheckMK)
-[![Smokeping](https://github-readme-stats.vercel.app/api/pin/?username=iyankz&repo=Smokeping&theme=tokyonight)](https://github.com/iyankz/Smokeping)
-
-</div>
 
 | Project | Description | Tech |
 | :--- | :--- | :---: |
@@ -445,18 +429,6 @@ Professional web solutions for corporate branding and network management dashboa
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iyankz&show_icons=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" alt="Iyankz GitHub Stats" /> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyankz&layout=compact&hide_border=true&title_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=iyankz&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=FF6600&currStreakLabel=0e75b6)](https://git.io/streak-stats)
-
-</div>
 
 <!-- Activity Graph -->
 <div align="center">
@@ -465,12 +437,6 @@ Professional web solutions for corporate branding and network management dashboa
 
 </div>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=iyankz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
