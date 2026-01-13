@@ -487,11 +487,6 @@ Professional web solutions for corporate branding and network management dashboa
 
 ---
 
-<img src="https://img.shields.io/badge/🎓_SMK_TKJ-➡️_Operations_Manager-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🔧_Layer_1-➡️_Layer_8_(Management)-blue?style=for-the-badge"/>
-
----
 
 ### 🔥 NEVER SURRENDER 🔥
 
