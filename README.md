@@ -1,136 +1,108 @@
 # 👋 Yayang Ardiansyah (Iyankz)
 
-**Operations Manager | Network Architect | ISP Systems Builder**
+**Operations Manager · Network Architect · ISP Systems Builder**
 
-I design, deploy, and operate real-world ISP infrastructure —  
-from monitoring, automation, security, to large-scale network operations.
+🇮🇩  
+Saya membangun, mengoperasikan, dan menskalakan infrastruktur ISP dunia nyata —  
+mulai dari monitoring, automasi, keamanan, hingga operasional jaringan skala besar.
 
-🔥 Motto: **NEVER SURRENDER**
+🇬🇧  
+I build, operate, and scale real-world ISP infrastructure —  
+from monitoring and automation to security and large-scale network operations.
 
----
-
-## ⚡ Executive Summary
-
-- 👔 Operations Manager managing **3 ISPs in Sukabumi**
-- 🌐 ISP Consultant for ISPs across Indonesia
-- 🧠 8+ years in ISP industry (from Layer 1 to Management)
-- 🏗️ Builder of **end-to-end ISP operational systems**
-- 🛡️ Focused on **stability, automation, security, and compliance**
-
-This GitHub is not a collection of demos.  
-It is a **production-oriented ISP operations ecosystem**.
+🔥 **NEVER SURRENDER**
 
 ---
 
-## 🏗️ ISP Operations Ecosystem (Production-Based)
+## ⚡ Ringkasan Singkat | At a Glance
 
-My repositories form a complete ISP operational stack, used in real environments.
+🇮🇩
+- 👔 Mengelola **3 ISP di Sukabumi**
+- 🌐 Konsultan ISP untuk berbagai wilayah di Indonesia
+- 🧠 Berpengalaman di industri ISP sejak **2017** (Layer 1 → Management)
+- 🏗️ Membangun sistem operasional ISP berbasis produksi
+- 🛡️ Fokus: stabilitas, automasi, keamanan, dan kepatuhan
 
-### 🟥 Core Logging & SIEM
-- **LeuitLog**  
-  Lightweight SIEM & Syslog Recorder designed for ISP & NOC environments  
-  (centralized logs, anomaly visibility, incident analysis)
-
----
-
-### 🟧 Monitoring & NOC
-- **CheckMK** — Infrastructure & service monitoring  
-- **Smokeping** — Latency, jitter, and packet loss tracking  
-- **Pandora-FMS** — Centralized monitoring platform  
-- **SNMP-Linux** — SNMP-based metrics & visibility  
-- **NTP-Server** — Time synchronization for distributed systems  
-
-Purpose: **Visibility first. You can’t fix what you can’t see.**
+🇬🇧
+- 👔 Managing **3 ISPs in Sukabumi**
+- 🌐 ISP consultant across Indonesia
+- 🧠 Experience in the ISP industry since **2017** (Layer 1 → Management)
+- 🏗️ Builder of production-grade ISP operational systems
+- 🛡️ Focus: stability, automation, security, and compliance
 
 ---
 
-### 🟨 Network & Service Management
-- **GenieACS** — TR-069 CPE management at scale  
-- **Netbox-Community** — Network documentation & IPAM  
-- **IPAM** — Address planning & management  
-- **Oxidized** — Network configuration backup & versioning  
+## 🌐 Portfolio & Source of Truth
 
-Purpose: **Consistency, documentation, and repeatability.**
+- 🌍 **Landing Page / Portfolio**  
+  👉 https://iyankz.github.io
 
----
-
-### 🟩 Security & Compliance
-- **Firewall-MikroTik** — RouterOS firewall hardening & best practices  
-- **RPZ-Kominfo** — DNS RPZ automation for regulatory compliance  
-- **Trust-NG** — Network trust & security tooling  
-
-Purpose: **Security is not optional — it’s operational hygiene.**
+- 📦 **All repositories & source code**  
+  👉 https://github.com/Iyankz?tab=repositories
 
 ---
 
-### 🟦 ISP Customer & Public Services
-- **Speedtest-Server-Ookla** — Bandwidth performance measurement  
-- **lookingglass** — ISP looking glass for transparency & diagnostics  
+## 🧱 Core Systems | Sistem Inti
 
-Purpose: **Trust through transparency.**
+### 🔥 LeuitLog
+🇮🇩 Lightweight SIEM & syslog recorder untuk ISP & NOC,  
+berfokus pada visibilitas log dan analisis insiden operasional.  
 
----
+🇬🇧 Lightweight SIEM & syslog recorder for ISP & NOC environments,  
+focused on log visibility and incident analysis.  
 
-### 🟪 Automation & Utilities
-- **botlinkmaster** — Automation bot & workflow helper  
-- **Tutorial** — Internal & public knowledge sharing  
-
-Purpose: **Reduce manual work. Reduce human error.**
+👉 https://github.com/Iyankz/LeuitLog
 
 ---
 
-## 🧠 Why I Build These Systems
+### 📡 PingTD
+🇮🇩 Sistem monitoring konektivitas jaringan berbasis  
+ping, traceroute, dan DNS checking untuk kebutuhan NOC harian.  
 
-Most ISP problems are not caused by hardware failure,
-but by poor operations:
+🇬🇧 Network connectivity monitoring system  
+based on ping, traceroute, and DNS checks for daily NOC operations.  
 
-- No visibility
-- No standardization
-- No automation
-- No documentation
-
-I build systems that:
-- Improve uptime
-- Reduce operational risk
-- Scale with growth
-- Work 24/7, even when humans sleep
+👉 https://github.com/Iyankz/PingTD
 
 ---
 
-## 🔥 My Journey (Short Version)
+### 🤖 botlinkmaster
+🇮🇩 Automation bot untuk membantu workflow operasional,  
+notifikasi, dan integrasi sistem jaringan.  
 
-Started in 2017 as a **Fiber Technician (Layer 1)**.  
-Mocked as *“tukang narik kabel”*.
+🇬🇧 Automation bot designed to support operational workflows,  
+notifications, and network system integrations.  
 
-Instead of quitting, I upgraded:
-cables → routing → monitoring → security → management.
-
-Today, I manage **3 ISPs** and consult nationwide.
-
-**NEVER SURRENDER** is not a slogan — it’s how I survived the industry.
+👉 https://github.com/Iyankz/botlinkmaster
 
 ---
 
-## 🤝 How I Can Help
+## 🧠 Sertifikasi & Pembelajaran | Certifications
 
-- Design & scale ISP infrastructure
-- Build NOC & monitoring systems
-- Audit network & security architecture
-- Implement automation & best practices
-- Mentor engineers from Layer 1 to advanced roles
+🇮🇩  
+Saya memiliki **50+ sertifikasi dan pelatihan profesional**  
+di bidang networking, security, cloud, monitoring, dan operasional ISP.  
+Sertifikasi ini menjadi fondasi dalam membangun solusi nyata di lapangan.
 
----
-
-## 📬 Let’s Connect
-
-- 📧 Email: iyankz.mekanik98@gmail.com  
-- 💬 Telegram: https://t.me/iyankz23  
-- 💼 LinkedIn: https://linkedin.com/in/yayang-ardiansyah  
-- 🐙 GitHub: https://github.com/Iyankz  
+🇬🇧  
+I hold **50+ professional certifications and trainings**  
+covering networking, security, cloud, monitoring, and ISP operations.
 
 ---
 
-### 🔥 NEVER SURRENDER
+## 📬 Kontak | Contact
 
-*"They said I was just a cable puller.  
-Now I build and operate ISP systems."*
+- 📧 Email: [iyankz.mekanik98@gmail.com](mailto:iyankz.mekanik98@gmail.com)
+- 💬 Telegram: https://t.me/iyankz23
+- 💼 LinkedIn: https://linkedin.com/in/yayang-ardiansyah
+- 🐙 GitHub: https://github.com/Iyankz
+
+---
+
+> 🇮🇩 *Dari “tukang narik kabel”  
+> menjadi pembangun dan pengelola sistem ISP.*
+
+> 🇬🇧 *From pulling cables  
+> to building and operating ISP systems.*
+
+🔥 **NEVER SURRENDER**
