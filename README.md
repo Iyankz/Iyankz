@@ -52,7 +52,7 @@ melainkan dirancang sebagai **satu ekosistem operasional ISP terpadu**.
 ## 🧰 GETOLS  
 **Gateway for Extended OLT Services**
 
-### 🌾 Makna Nama GETOLS
+###  Makna Nama GETOLS
 
 Nama **GETOLS** memiliki **dua makna yang saling melengkapi**:  
 makna budaya lokal dan makna teknis sistem.
@@ -106,7 +106,7 @@ Fitur utama:
 
 ---
 
-## 🔥 LeuitLog  
+##  LeuitLog  
 **Lightweight SIEM & Syslog Recorder**
 
 🇮🇩 **LeuitLog** adalah **Lightweight SIEM & Syslog Recorder** yang dirancang untuk  
