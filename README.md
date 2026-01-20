@@ -34,75 +34,106 @@ from monitoring and automation to security and large-scale network operations.
 
 ## 🌐 Portfolio & Source of Truth
 
-- 🌍 **Landing Page / Portfolio**  
+- 🌍 Website / Portfolio  
   👉 https://iyankz.github.io
 
-- 📦 **All repositories & source code**  
-  👉 https://github.com/Iyankz?tab=repositories
+- 🐙 GitHub Repositories  
+  👉 https://github.com/Iyankz
 
 ---
 
-## 🧱 Core Systems | Sistem Inti
+## 🧱 Unified ISP Operational Platform
 
-Seluruh tools berikut dirancang **bukan sebagai aplikasi terpisah**,  
-melainkan sebagai **Unified ISP Operational Platform**.
+Seluruh tools berikut **bukan aplikasi terpisah**,  
+melainkan dirancang sebagai **satu ekosistem operasional ISP terpadu**.
 
 ---
 
-### 🧰 Getols  
+## 🧰 GETOLS  
 **Gateway for Extended OLT Services**
 
-🇮🇩 **GETOLS (Gateway for Extended OLT Services)** adalah **platform gateway open-source** yang dirancang untuk **menyederhanakan, menyatukan, dan mengamankan operasional OLT & ONU multi-vendor** melalui **satu pintu eksekusi command** yang **terkontrol, terstandarisasi, dan teraudit**.
+### 🌾 Makna Nama GETOLS
 
-GETOLS berperan sebagai **operational control plane** yang mengabstraksi perbedaan sintaks, perilaku, dan metode akses antar vendor OLT, sehingga engineer dan tim NOC dapat bekerja dengan **workflow yang konsisten** tanpa harus berinteraksi langsung dengan perangkat.
+Nama **GETOLS** memiliki **dua makna yang saling melengkapi**:  
+makna budaya lokal dan makna teknis sistem.
 
-GETOLS menggabungkan:
-- 🤖 **Telegram Bot** — eksekusi cepat untuk engineer lapangan & incident handling
-- 🌐 **Web Dashboard** — manajemen terpusat, visualisasi, dan observabilitas
-- 🧩 **Command Abstraction Layer** — normalisasi perintah lintas vendor OLT/ONU
-- 🔐 **RBAC & Audit Trail** — kontrol akses, pembatasan perintah, dan pencatatan aktivitas
+#### 🔹 Makna Bahasa Sunda
+Dalam bahasa Sunda, **getol** berarti:
 
-Fokus utama:
-- Sentralisasi akses & kontrol operasional OLT/ONU
-- Reduksi human error akibat perbedaan command vendor
-- Peningkatan keamanan melalui gateway terkontrol
-- Mendukung workflow NOC dan engineer lapangan secara real-time
+> **rajin, tekun, konsisten dalam bekerja**
 
-🇬🇧 **GETOLS (Gateway for Extended OLT Services)** is an **open-source gateway platform** designed to **simplify, unify, and secure multi-vendor OLT & ONU operations** through a **single, controlled, and auditable command execution entry point**.
+Makna ini mencerminkan filosofi GETOLS sebagai sistem yang:
+- Bekerja **terus-menerus di belakang layar**
+- Menangani **pekerjaan operasional yang berulang**
+- Mengurangi **beban manual engineer**
+- Membantu operator fokus pada **analisis dan pengambilan keputusan**
+
+GETOLS bukan untuk menggantikan engineer,  
+tetapi menjadi **rekan kerja digital** yang setia dan disiplin.
+
+#### 🔹 Makna Teknis
+Secara teknis, **GETOLS** merupakan singkatan dari:
+
+> **Gateway for Extended OLT Services**
+
+Huruf **“S”** pada GETOLS merepresentasikan:
+- **Multi OLT**
+- **Multi Vendor**
+- **Multi Services**
+
+---
+
+### ⚙️ Deskripsi Sistem
+
+🇮🇩 **GETOLS** adalah **platform gateway open-source** yang dirancang untuk  
+**menyederhanakan, menyatukan, dan mengamankan operasional OLT & ONU multi-vendor**  
+melalui **satu pintu eksekusi command** yang **terkontrol, terstandarisasi, dan teraudit**.
+
+GETOLS berperan sebagai **operational control plane**,  
+mengabstraksi perbedaan sintaks dan perilaku vendor OLT,  
+sehingga engineer dan tim NOC bekerja dengan **workflow yang konsisten dan aman**.
+
+Fitur utama:
+- 🤖 Telegram Bot untuk eksekusi cepat
+- 🌐 Web Dashboard untuk manajemen & observabilitas
+- 🧩 Command Abstraction Layer lintas vendor
+- 🔐 RBAC & audit trail
+
+🇬🇧 **GETOLS** is an **open-source operational gateway** that unifies  
+**multi-vendor OLT & ONU operations** through a **single, secure, and auditable entry point**.
 
 👉 https://github.com/Iyankz/GETOLS
 
 ---
 
-### 🔥 LeuitLog  
+## 🔥 LeuitLog  
 **Lightweight SIEM & Syslog Recorder**
 
-🇮🇩 **LeuitLog** adalah **Lightweight SIEM & Syslog Recorder** yang dirancang untuk **ISP, Data Center, dan infrastruktur Linux**, dengan fokus pada **visibilitas log, keamanan operasional, dan kedaulatan data**.
+🇮🇩 **LeuitLog** adalah **Lightweight SIEM & Syslog Recorder** yang dirancang untuk  
+**ISP, Data Center, dan infrastruktur Linux**, dengan fokus pada  
+**visibilitas log, keamanan operasional, dan kedaulatan data**.
 
-Terinspirasi dari konsep **Leuit (lumbung padi)**, LeuitLog berfungsi sebagai  
-**lumbung digital**, tempat log diperlakukan sebagai **aset berharga**.
+Terinspirasi dari konsep **Leuit (lumbung padi)**,  
+LeuitLog berfungsi sebagai **lumbung digital**, di mana:
 
-Prinsip utama LeuitLog:
-- 🌾 **Log sebagai aset** — disimpan dan dianalisis untuk nilai jangka panjang
-- 🛡️ **Serangan dipantau aktif** — brute force, anomaly, dan aktivitas mencurigakan
-- 🏠 **Kedaulatan data penuh** — berjalan **on-premise**, tanpa vendor lock-in
+- 🌾 **Log diperlakukan sebagai aset berharga**
+- 🛡️ **Serangan dipantau secara aktif**
+- 🏠 **Kedaulatan data dijaga sepenuhnya** (on-premise, tanpa vendor lock-in)
 
 Fungsi utama:
 - Sentralisasi syslog perangkat jaringan & server
 - Audit trail aktivitas engineer & sistem
 - Investigasi insiden & forensik operasional
-- Dukungan lingkungan produksi skala ISP & DC
 
-🇬🇧 **LeuitLog** is a **Lightweight SIEM & Syslog Recorder** designed for **ISPs, data centers, and Linux infrastructure**, focused on **log visibility, operational security, and full data sovereignty**.
-
-Inspired by the **Leuit (traditional rice barn)** concept, LeuitLog acts as a  
-**digital granary**, where logs are treated as **valuable assets**.
+🇬🇧 **LeuitLog** is a **Lightweight SIEM & Syslog Recorder** for  
+**ISPs, data centers, and Linux infrastructure**,  
+focused on **log visibility, security monitoring, and full data sovereignty**.
 
 👉 https://github.com/Iyankz/LeuitLog
 
 ---
 
-### 📡 PingTD  
+## 📡 PingTD  
 **Ping · Traceroute · DNS Monitoring**
 
 🇮🇩 **PingTD** adalah sistem monitoring konektivitas jaringan berbasis  
@@ -110,53 +141,50 @@ Inspired by the **Leuit (traditional rice barn)** concept, LeuitLog acts as a
 
 Digunakan untuk:
 - Monitoring backbone, upstream, dan endpoint
-- Validasi dampak perubahan konfigurasi jaringan
+- Validasi dampak perubahan konfigurasi
 - Baseline SLA dan histori kesehatan jaringan
 
 🇬🇧 **PingTD** is a network connectivity monitoring system based on  
-**Ping, Traceroute, and DNS checks** for **daily NOC operations and SLA validation**.
+**Ping, Traceroute, and DNS checks** for **daily operations and SLA validation**.
 
 👉 https://github.com/Iyankz/PingTD
 
 ---
 
-### 🤖 botlinkmaster  
+## 🤖 botlinkmaster  
 **Telegram Network Monitoring Bot**
 
-🇮🇩 **botlinkmaster** adalah **Bot Telegram** untuk **monitoring perangkat jaringan (router & switch)** dengan dukungan **multi-vendor**, termasuk **monitoring optical power (Tx/Rx)**.
+🇮🇩 **botlinkmaster** adalah **Bot Telegram** untuk monitoring  
+**router & switch multi-vendor**, termasuk **monitoring optical power (Tx/Rx)**.
 
-Bot ini dirancang untuk **respons cepat NOC dan engineer lapangan**, terutama pada kondisi on-call atau incident response, tanpa perlu membuka dashboard atau login langsung ke perangkat.
+Dirancang untuk:
+- Respons cepat NOC
+- Engineer lapangan & on-call
+- Notifikasi real-time tanpa login ke perangkat
 
-Fitur utama:
-- Monitoring router & switch multi-vendor
-- Optical power monitoring (SFP / interface fiber)
-- Notifikasi real-time ke Telegram
-- Command ringan & status checking
-
-🇬🇧 **botlinkmaster** is a **Telegram bot** designed for **multi-vendor network device monitoring**, including **optical power (Tx/Rx) monitoring**, optimized for **fast operational response**.
+🇬🇧 **botlinkmaster** is a **Telegram bot** for  
+**multi-vendor network device monitoring**, including **optical power (Tx/Rx)**.
 
 👉 https://github.com/Iyankz/botlinkmaster
 
 ---
 
-## 🧭 Unified ISP Operational Platform
+## 🧭 How Everything Fits Together
 
-Keempat sistem ini membentuk **satu ekosistem operasional ISP terpadu**:
-
-- **Getols** → *Do*  
-  Eksekusi & kontrol operasional OLT/ONU
-- **botlinkmaster** → *Alert & Quick Action*  
-  Monitoring cepat & notifikasi real-time
+- **GETOLS** → *Do*  
+  Gateway & kontrol operasional OLT/ONU
+- **botlinkmaster** → *Alert*  
+  Monitoring cepat & notifikasi
 - **LeuitLog** → *See*  
-  Visibilitas, audit, dan keamanan
+  Log visibility, audit, security
 - **PingTD** → *Measure*  
-  Kesehatan jaringan & SLA
+  Network health & SLA
 
-Prinsip arsitektur:
+Prinsip utama:
 - Engineer **tidak langsung login ke perangkat**
-- Semua aksi melalui **gateway & bot terkontrol**
-- Semua aktivitas **tercatat & teraudit**
-- Semua perubahan **terukur dampaknya**
+- Semua aksi melalui **sistem terkontrol**
+- Semua aktivitas **tercatat dan teraudit**
+- Semua dampak **terukur dan tervalidasi**
 
 ---
 
@@ -174,9 +202,9 @@ covering networking, security, cloud, monitoring, and ISP operations.
 
 ## 📬 Kontak | Contact
 
-- 📧 Email: [iyankz.mekanik98@gmail.com](mailto:iyankz.mekanik98@gmail.com)
-- 💬 Telegram: https://t.me/iyankz23
-- 💼 LinkedIn: https://linkedin.com/in/yayang-ardiansyah
+- 📧 Email: iyankz.mekanik98@gmail.com  
+- 💬 Telegram: https://t.me/iyankz23  
+- 💼 LinkedIn: https://linkedin.com/in/yayang-ardiansyah  
 - 🐙 GitHub: https://github.com/Iyankz
 
 ---
