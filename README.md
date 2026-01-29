@@ -1,148 +1,139 @@
-# 👋 Yayang Ardiansyah (Iyankz)
+# Iyankz
 
-**Linux, Network & Open Source Enthusiast**
-*ISP Operations · Monitoring · Automation · Cybersecurity*
-
+**Network Architect · ISP Systems Builder · Infrastructure Engineer**
 
 ---
 
 🇮🇩
-Saya membangun, mengoperasikan, dan meningkatkan keandalan **infrastruktur ISP dunia nyata** —
-dengan fokus pada **operasional jaringan, monitoring, automasi, dan keamanan sistem** berbasis open source.
+Membangun, mengoperasikan, dan mengembangkan **infrastruktur ISP nyata** —
+dengan fokus pada **operational control, automation, security, dan observability**.
 
 🇬🇧
-I build, operate, and improve the reliability of **real‑world ISP infrastructure**,
-with a focus on **network operations, monitoring, automation, and system security** using open‑source technologies.
+Building, operating, and scaling **real-world ISP infrastructure** —
+focused on **operational control, automation, security, and observability**.
 
 ---
 
-## ⚡ Ringkasan Singkat | At a Glance
+## Ringkasan | At a Glance
 
-🇮🇩
-
-* 🧠 Berpengalaman di industri ISP sejak **2017**
-* 🌐 Terlibat dalam berbagai lingkungan **ISP & service provider**
-* 🏗️ Membangun sistem operasional jaringan **siap produksi**
-* 🔄 Fokus pada stabilitas layanan, automasi operasional, dan keamanan
-
-🇬🇧
-
-* 🧠 Experience in the ISP industry since **2017**
-* 🌐 Involved in multiple **ISP & service provider environments**
-* 🏗️ Builder of **production‑ready network operational systems**
-* 🔄 Focused on service reliability, automation, and security
+| | 🇮🇩 | 🇬🇧 |
+|---|---|---|
+| | Berpengalaman di industri ISP sejak **2017** | Experience in the ISP industry since **2017** |
+| | Mengelola **5+ lingkungan ISP** | Managing **5+ ISP environments** |
+| | Membangun **6 open source tools** untuk operasional ISP | Building **6 open source tools** for ISP operations |
+| | Memiliki **50+ sertifikasi** profesional | Holder of **50+ professional certifications** |
 
 ---
 
-## 🌐 Portfolio & Source of Truth
+## Portfolio & Links
 
-* 🌍 Website / Portfolio
-  👉 [https://iyankz.github.io](https://iyankz.github.io)
-
-* 🐙 GitHub Repositories
-  👉 [https://github.com/Iyankz](https://github.com/Iyankz)
-
----
-
-## 🧱 Unified ISP Operational Platform
-
-Seluruh tools berikut dirancang **bukan sebagai aplikasi terpisah**,
-melainkan sebagai **satu ekosistem operasional ISP yang saling terintegrasi**.
-
-Prinsip utama:
-
-* Operasi jaringan lebih **terkontrol & teraudit**
-* Mengurangi ketergantungan akses langsung ke perangkat
-* Meningkatkan visibilitas, keamanan, dan konsistensi workflow
+| | |
+|---|---|
+| Website | [https://iyankz.github.io](https://iyankz.github.io) |
+| GitHub | [https://github.com/Iyankz](https://github.com/Iyankz) |
 
 ---
 
-## 🧰 GETOLS
+## ISP Operational Ecosystem
 
-**Gateway for Extended OLT Services**
+Seluruh tools dirancang sebagai **satu ekosistem terintegrasi**, bukan aplikasi terpisah.
 
-🇮🇩 **GETOLS** diambil dari kata bahasa Sunda **“getol”** yang berarti *rajin, tekun, dan konsisten*.
-Nama ini merepresentasikan filosofi GETOLS sebagai sistem yang bekerja **terus-menerus di belakang layar**, menangani tugas operasional berulang dengan disiplin tinggi, sehingga engineer dapat fokus pada analisis dan pengambilan keputusan.
+All tools are designed as **one integrated ecosystem**, not separate applications.
 
-Secara teknis, **GETOLS** merupakan singkatan dari **Gateway for Extended OLT Services**, yaitu gateway operasional open source untuk menyederhanakan dan menyatukan pengelolaan **OLT & ONU multi-vendor** melalui **satu pintu eksekusi yang aman dan terstandarisasi**.
+**Prinsip | Principles:**
 
-🇬🇧 **GETOLS** comes from the Sundanese word **“getol”**, meaning *diligent, persistent, and consistent*.
-The name reflects the philosophy of GETOLS as a system that works **continuously behind the scenes**, handling repetitive operational tasks reliably, allowing engineers to focus on analysis and decision-making.
-
-Technically, **GETOLS** stands for **Gateway for Extended OLT Services**, an open-source operational gateway that unifies **multi-vendor OLT & ONU management** through a **single, secure, and auditable entry point**.
-
-👉 [https://github.com/Iyankz/GETOLS](https://github.com/Iyankz/GETOLS)
+- Operational control — engineer bekerja melalui sistem, bukan langsung ke perangkat
+- Visibility & logging — log adalah aset, data mendorong keputusan
+- Automation — menghilangkan tugas repetitif dan human error
+- Security by design — keamanan adalah fondasi, bukan tambahan
 
 ---
 
-## 🧾 LeuitLog
-
-**Lightweight SIEM & Syslog Recorder**
-
-🇮🇩 **LeuitLog** mengambil nama dari **“Leuit”**, lumbung padi tradisional Sunda yang berfungsi sebagai tempat penyimpanan hasil panen paling berharga.
-Filosofi ini diterapkan pada LeuitLog, di mana **log diperlakukan sebagai aset penting** untuk keamanan, audit, dan keberlanjutan operasional sistem.
-
-LeuitLog dirancang sebagai **Lightweight SIEM & Syslog Recorder** untuk ISP dan infrastruktur Linux, dengan fokus pada **visibilitas log, keamanan operasional, dan kedaulatan data (on-premise, tanpa vendor lock-in)**.
-
-🇬🇧 **LeuitLog** is named after **“Leuit”**, a traditional Sundanese rice barn used to store the most valuable harvest.
-This philosophy is reflected in LeuitLog, where **logs are treated as critical assets** for security, auditing, and operational continuity.
-
-LeuitLog is a **Lightweight SIEM & Syslog Recorder** designed for ISPs and Linux infrastructure, focusing on **log visibility, operational security, and full data sovereignty**.
-
-👉 [https://github.com/Iyankz/LeuitLog](https://github.com/Iyankz/LeuitLog)
-
----
-
-## 📡 PingTD
-
-**Ping · Traceroute · DNS Monitoring**
-
-🇮🇩 **PingTD** adalah sistem monitoring konektivitas jaringan untuk
-kebutuhan **operasional harian dan validasi SLA**.
-
-🇬🇧 **PingTD** is a connectivity monitoring system designed for
-**daily operations and SLA validation**.
-
-👉 [https://github.com/Iyankz/PingTD](https://github.com/Iyankz/PingTD)
-
----
-
-## 🤖 botlinkmaster
+## BotLinkMaster
 
 **Telegram Network Monitoring Bot**
 
-🇮🇩 **botlinkmaster** adalah Bot Telegram untuk monitoring
-**perangkat jaringan multi‑vendor**, termasuk pemantauan optical power.
+🇮🇩 Bot Telegram untuk monitoring router dan switch multi-vendor. Cek redaman optik (Tx/Rx) dan status port SFP langsung dari chat — tanpa perlu akses SSH atau Winbox.
 
-🇬🇧 **botlinkmaster** is a Telegram bot for
-**multi‑vendor network device monitoring**, including optical power metrics.
+🇬🇧 Telegram bot for multi-vendor router and switch monitoring. Check optical power (Tx/Rx) and SFP port status directly from chat — no SSH or Winbox access needed.
 
-👉 [https://github.com/Iyankz/botlinkmaster](https://github.com/Iyankz/botlinkmaster)
+[https://github.com/Iyankz/botlinkmaster](https://github.com/Iyankz/botlinkmaster)
 
 ---
 
-## 🧠 Sertifikasi & Pembelajaran | Certifications
+## PingTD
 
-🇮🇩
-Memiliki **50+ sertifikasi dan pelatihan profesional**
-di bidang networking, security, monitoring, dan operasional ISP.
+**Network Diagnostic & Visibility Tool**
 
-🇬🇧
-Holder of **50+ professional certifications and trainings**
-covering networking, security, monitoring, and ISP operations.
+🇮🇩 Ping, traceroute, DNS lookup, dan latency monitoring dengan RRD-based data — untuk operasi NOC harian dan validasi SLA.
 
----
+🇬🇧 Ping, traceroute, DNS lookup, and latency monitoring with RRD-based data — for daily NOC operations and SLA validation.
 
-## 📬 Kontak | Contact
-
-* 📧 Email: [iyankz.mekanik98@gmail.com](mailto:iyankz.mekanik98@gmail.com)
-* 💬 Telegram: [https://t.me/iyankz23](https://t.me/iyankz23)
-* 💼 LinkedIn: [https://linkedin.com/in/yayang-ardiansyah](https://linkedin.com/in/yayang-ardiansyah)
-* 🐙 GitHub: [https://github.com/Iyankz](https://github.com/Iyankz)
+[https://github.com/Iyankz/PingTD](https://github.com/Iyankz/PingTD)
 
 ---
 
-> 🇮🇩 *Berangkat dari lapangan, bertumbuh di sistem.*
-> 🇬🇧 *Started in the field, grown through systems.*
+## LeuitLog
 
-🔥 **NEVER SURRENDER**
+**Lightweight SIEM & Syslog Recorder**
+
+🇮🇩 **LeuitLog** mengambil nama dari **"Leuit"**, lumbung padi tradisional Sunda. Log diperlakukan sebagai **aset operasional** yang harus disimpan dan dijaga — untuk keamanan, audit, dan keberlanjutan sistem.
+
+🇬🇧 **LeuitLog** is named after **"Leuit"**, a traditional Sundanese rice barn. Logs are treated as **operational assets** that must be stored and protected — for security, auditing, and system continuity.
+
+[https://github.com/Iyankz/LeuitLog](https://github.com/Iyankz/LeuitLog)
+
+---
+
+## GETOLS
+
+**Gateway for Extended OLT Services**
+
+🇮🇩 **GETOLS** dari kata Sunda **"getol"** — rajin, tekun, konsisten. Gateway operasional untuk menyederhanakan pengelolaan **OLT & ONU multi-vendor** melalui satu pintu eksekusi yang aman dan teraudit.
+
+🇬🇧 **GETOLS** comes from the Sundanese word **"getol"** — diligent, persistent, consistent. Operational gateway that unifies **multi-vendor OLT & ONU management** through a single, secure, and auditable entry point.
+
+[https://github.com/Iyankz/GETOLS](https://github.com/Iyankz/GETOLS)
+
+---
+
+## SemarDNS
+
+**Policy-aware DNS Resolver**
+
+🇮🇩 DNS resolver dengan policy fleksibel untuk ISP dan internal network. Filtering, redirect, dan logging terintegrasi — kontrol penuh atas resolusi DNS.
+
+🇬🇧 Policy-aware DNS resolver for ISP and internal networks. Integrated filtering, redirect, and logging — full control over DNS resolution.
+
+[https://github.com/Iyankz/SemarDNS](https://github.com/Iyankz/SemarDNS)
+
+---
+
+## LeuitCSS
+
+**Configuration Storage System**
+
+🇮🇩 **LeuitCSS** — source of truth untuk konfigurasi. Bukan execution system, bukan logging. Murni lumbung penyimpanan config yang terstruktur dan dapat diaudit.
+
+🇬🇧 **LeuitCSS** — source of truth for configurations. Not an execution system, not logging. Pure structured config storage that is auditable.
+
+[https://github.com/Iyankz/LeuitCSS](https://github.com/Iyankz/LeuitCSS)
+
+---
+
+## Kontak | Contact
+
+| | |
+|---|---|
+| Email | [iyankz.mekanik98@gmail.com](mailto:iyankz.mekanik98@gmail.com) |
+| Telegram | [https://t.me/iyankz23](https://t.me/iyankz23) |
+| LinkedIn | [https://linkedin.com/in/yayang-ardiansyah](https://linkedin.com/in/yayang-ardiansyah) |
+| GitHub | [https://github.com/Iyankz](https://github.com/Iyankz) |
+
+---
+
+> 🇮🇩 *"Setiap gelas kopi melahirkan ide dan gagasan, setiap baris kode mengandung 1 gram kafein Arabika, diracik dengan fokus dan konsistensi."*
+>
+> 🇬🇧 *"Every cup of coffee sparks ideas, every line of code contains 1 gram of Arabica caffeine, brewed with focus and consistency."*
+
+**NEVER SURRENDER**
